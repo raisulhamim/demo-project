@@ -84,6 +84,46 @@
 
 
 /* <!-- supplier part end --> */
+.images .box{
+    display: flex;
+    gap: 20px;
+}
 
 
-
+.images .img1{
+    width: 340px;
+    height: 340px;
+ 
+}
+.images .img1 img{
+    width: 100%;
+    height: 100%;
+   
+}
+.images .img2{
+ width: 340px;
+    height: 340px;
+}
+.images .img2 img{
+    width: 100%;
+    height: 100%;
+   
+}
+.images .img3{
+  width: 340px;
+    height: 340px;
+}
+.images .img3 img{
+    width: 100%;
+    height: 100%;
+   
+}
+.images .img4{
+   width: 340px;
+    height: 340px;
+}
+.images .img4 img{
+    width: 100%;
+    height: 100%;
+   
+}
