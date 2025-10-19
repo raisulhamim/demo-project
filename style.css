@@ -47,3 +47,43 @@
    
 
 }
+
+
+  /* <!-- banner part end--> */
+
+.supplier .col-lg-5 h2{
+       font-family: "Poppins", sans-serif;
+    font-weight: 700;
+     color: #000000;
+     font-size: 48px;
+     width: 289px;
+     line-height: 72px;
+     
+ 
+   
+}
+.supplier .col-lg-7 p{
+           font-family: "Poppins", sans-serif;
+    font-weight: 400;
+     color: #6C6C6C;
+     font-size: 16px;
+     width: 651px;
+     padding-top: 80px;
+   
+  
+     
+
+}
+.supplier .box{
+    display: flex;
+}
+.supplier{
+    padding-top: 78px;
+    padding-bottom: 100px;
+}
+
+
+/* <!-- supplier part end --> */
+
+
+
